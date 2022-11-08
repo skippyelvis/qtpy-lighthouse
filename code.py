@@ -22,7 +22,7 @@ class Timer:
 class Display:
 
 	def __init__(self, phase):
-		self.pix = NeoPixel(board.A0, 8, brightness=0.05, auto_write=False)
+		self.pix = NeoPixel(board.A0, 8, brightness=0.75, auto_write=False)
 		self.cmap = phase[0]
 		self.pos = 0
 		self.n = 0
