@@ -1,0 +1,5 @@
+neopixel.mpy
+adafruit_pixelbuf.mpy
+adafruit_debouncer.mpy
+adafruit_ticks.mpy
+adafruit_led_animation/
